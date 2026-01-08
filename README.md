@@ -1,5 +1,7 @@
 # Refresh Reminder
 
+<img width="210" height="80" alt="image" src="https://github.com/user-attachments/assets/735dfcca-1efc-4683-b208-d6d331b96fd6" />
+
 A Unity Editor addon that reminds you to refresh your project after time has passed or code changes are detected.
 
 ## Why?
